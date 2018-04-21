@@ -1,2 +1,2 @@
 # SXCtest
-There are some test reports form SXc
+There are some test reports for SXc
